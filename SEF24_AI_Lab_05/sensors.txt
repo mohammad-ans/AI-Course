@@ -1,0 +1,10 @@
+motion True
+door False
+temperature True
+smoke False
+time_night True
+window_open False
+humidity_high True
+glass_break False
+fire_detected False
+water_leak True

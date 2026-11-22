@@ -1,0 +1,10 @@
+rule1: motion AND (door OR window_open)
+rule2: (temperature OR humidity_high) AND NOT smoke
+rule3: NOT time_night OR door
+rule4: motion AND (NOT door OR (time_night AND NOT window_open))
+rule5: (motion OR temperature) AND NOT (smoke OR fire_detected)
+rule6: NOT (motion AND door) OR (time_night AND humidity_high)
+rule7: (glass_break OR door) AND (NOT fire_detected AND NOT water_leak)
+rule8: NOT (motion OR door) AND (smoke OR temperature)
+rule9: (window_open AND NOT motion) OR (door AND fire_detected)
+rule10: (NOT humidity_high OR motion) AND (temperature OR NOT water_leak)

@@ -1,0 +1,12 @@
+Deep Space Rescue AI Results
+----------------------------
+P(Success): 0.375
+P(Success | Storm): 0.34375
+Bayes Engine|Failure: 0.19856845993996763
+Weather ⟂ Engine: False
+Distress | Storm: 0.4
+Solar ⟂ Weather: False
+Most Dangerous Scenario: ('extreme', 'high', 'faulty', 'fail')
+Rescue via Conditioning: 0.5038467333654773
+Invalid Distributions: []
+Joint Sum Check: False

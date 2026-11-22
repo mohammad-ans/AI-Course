@@ -1,0 +1,3 @@
+working,0.70
+degraded,0.20
+faulty,0.10

@@ -1,0 +1,5 @@
+Patient(p1, critical)
+Patient(p2, mild)
+Patient(p3, moderate)
+Patient(p4, critical)
+Patient(p5, mild)

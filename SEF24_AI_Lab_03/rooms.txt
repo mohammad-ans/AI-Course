@@ -1,0 +1,18 @@
+# Number of rooms
+15
+
+Entrance 0 0
+Hall1 2 1
+Hall2 4 0
+Hall3 6 1
+Gallery1 1 3
+Gallery2 3 4
+Gallery3 5 4
+Library1 2 6
+Library2 4 7
+Shrine1 6 5
+Shrine2 8 6
+Hidden1 3 9
+Hidden2 6 9
+Guard 9 7
+Vault 11 7

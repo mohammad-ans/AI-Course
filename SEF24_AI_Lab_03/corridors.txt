@@ -1,0 +1,29 @@
+# Number of corridors
+26
+
+Entrance Hall1 2.2
+Hall1 Hall2 2.0
+Hall2 Hall3 2.2
+Hall3 Shrine1 2.5
+Shrine1 Shrine2 2.0
+Shrine2 Guard 2.2
+Guard Vault 2.0
+Entrance Gallery1 3.2
+Gallery1 Gallery2 1.8
+Gallery2 Gallery3 2.0
+Gallery3 Shrine1 2.3
+Gallery2 Library1 2.5
+Library1 Library2 2.0
+Library2 Shrine2 2.4
+Library1 Hidden1 3.0
+Hidden1 Hidden2 2.5
+Hidden2 Shrine2 2.8
+Hall2 Gallery2 2.4
+Hall3 Gallery3 2.3
+Gallery3 Library2 2.2
+Hidden2 Guard 3.5
+Gallery1 Library1 2.7
+Hall1 Gallery2 2.6
+Library2 Hidden2 2.6
+Shrine1 Guard 3.0
+Hall3 Library2 3.1

@@ -1,0 +1,24 @@
+(A => B)
+(B => C)
+(C => D)
+
+(A AND C) => E
+(E OR F) => G
+
+G => H
+H => I
+
+I <=> J
+
+NOT J => K
+K => L
+
+L AND A
+
+NOT (D AND F)
+
+F => M
+M => N
+
+N => O
+O => P

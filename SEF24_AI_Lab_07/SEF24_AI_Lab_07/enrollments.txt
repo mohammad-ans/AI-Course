@@ -1,0 +1,40 @@
+Ali CS101
+Ali AI201
+Ali ML303
+
+Sara CS102
+Sara SE202
+
+Ahmed AI201
+Ahmed CS101
+
+Zara DS301
+
+Usman CS101
+Usman SE202
+Usman ML303
+
+Fatima AI201
+
+Hassan CN205
+
+Ayesha CS101
+Ayesha AI201
+Ayesha SE202
+
+Bilal DB204
+
+Noor CS102
+Noor DS301
+
+Hamza ML303
+Hamza AI201
+
+Iqra CS101
+
+Danish SE202
+Danish ML303
+
+Kiran CS102
+
+# Omar intentionally has NO enrollments (edge case)

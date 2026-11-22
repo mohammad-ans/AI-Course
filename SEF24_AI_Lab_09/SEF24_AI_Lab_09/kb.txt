@@ -1,0 +1,6 @@
+patient_1 sick
+patient_2 healthy
+patient_3 sick
+hospital_1 capacity > 50
+hospital_2 capacity < 50
+if patient_X sick and hospital_Y capacity > 0 then patient_X assigned_to hospital_Y

@@ -1,0 +1,11 @@
+Greedy Best-First Search Results
+--------------------------------
+
+Exploration Order:
+['A', 'B', 'C', 'F', 'E', 'G']
+
+Path Found:
+A -> B -> E -> G
+
+Total Cost:
+17

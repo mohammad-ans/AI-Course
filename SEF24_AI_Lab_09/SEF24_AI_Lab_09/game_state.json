@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "doctors": 10,
+    "nurses": 20,
+    "vaccines": 500
+  },
+  "patients": {
+    "critical": 50,
+    "moderate": 200,
+    "mild": 100
+  },
+  "turn": 1
+}

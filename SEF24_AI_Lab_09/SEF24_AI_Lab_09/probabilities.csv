@@ -1,0 +1,6 @@
+PatientStatus,Treatment,SuccessProb
+critical,ICU,0.7
+moderate,RegularWard,0.9
+mild,HomeCare,0.95
+critical,RegularWard,0.4
+moderate,ICU,0.6

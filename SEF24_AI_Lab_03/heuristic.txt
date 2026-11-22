@@ -1,0 +1,15 @@
+Entrance 13.04
+Hall1 10.82
+Hall2 9.90
+Hall3 7.81
+Gallery1 10.77
+Gallery2 8.54
+Gallery3 6.71
+Library1 9.49
+Library2 7.00
+Shrine1 5.39
+Shrine2 3.16
+Hidden1 8.25
+Hidden2 5.39
+Guard 2.00
+Vault 0

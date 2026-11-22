@@ -1,0 +1,3 @@
+Hospital(h1, capacity=20)
+Hospital(h2, capacity=50)
+Hospital(h3, capacity=30)

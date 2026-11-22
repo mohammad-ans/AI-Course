@@ -1,0 +1,3 @@
+if fever > 40 and cough > 30 then alert = HIGH
+if fever > 30 and cough > 20 then alert = MEDIUM
+if fever <= 30 then alert = LOW

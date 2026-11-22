@@ -1,0 +1,7 @@
+FOL Evaluation Results
+----------------------
+Universal CS101 Students: True
+Existential Ali Enrolled: True
+Every Student Has Course: False
+Exists Student With No Courses: True
+Core Course Check: True

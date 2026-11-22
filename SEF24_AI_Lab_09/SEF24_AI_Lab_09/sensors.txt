@@ -1,0 +1,5 @@
+Region1: fever 30 cough 25
+Region2: fever 50 cough 40
+Region3: fever 20 cough 10
+Region4: fever 60 cough 50
+Region5: fever 10 cough 5

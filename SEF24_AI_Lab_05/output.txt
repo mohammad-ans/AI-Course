@@ -1,0 +1,7 @@
+Triggered Rules:
+----------------
+rule2
+rule4
+rule5
+rule6
+rule10
